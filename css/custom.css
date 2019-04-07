@@ -1,0 +1,45 @@
+
+body{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.flag{
+    padding: 80px 15px;
+    text-align: center;
+    margin: 25px 0px;
+}
+
+.home1 {
+    background-image: linear-gradient(rgba(182, 207, 171, 0.8), rgba(53, 133, 66, 0.9)), url(stbartfront.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.craig {
+    text-align: left;
+    color: #006c32; 
+    font-weight: bold; 
+}
+
+.stbartlogo {
+    padding: 5px 5px 5px 15px; 
+    height: 125px;
+    width: 125px; 
+}
+
+.murray {
+    background-color: #006c32; 
+    color: #fff; 
+    text-decoration-color: #fff;
+}
+
+.nav-link {
+    color: #fff; 
+}
+
+.navbar-brand {
+    color: #fff; 
+}
